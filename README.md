@@ -33,7 +33,12 @@ e-commerce-analysis/
 
 ---
 ## Dataset Used
-- < a href="https://github.com/nazmul23423/SQL-Python-PowerBI-Ecommerce-Analysis/tree/master/dataset"> Data Folder </a>
+- < a href="https://github.com/nazmul23423/SQL-Python-PowerBI-Ecommerce-Analysis/blob/master/dataset/Customers.csv"> Customers.csv </a>
+- < a href="https://github.com/nazmul23423/SQL-Python-PowerBI-Ecommerce-Analysis/blob/master/dataset/Exchange_Rates.csv">Exchange_Rates.csv</a>
+- < a href="https://github.com/nazmul23423/SQL-Python-PowerBI-Ecommerce-Analysis/blob/master/dataset/Products.csv">Products.csv</a>
+- < a href="https://github.com/nazmul23423/SQL-Python-PowerBI-Ecommerce-Analysis/blob/master/dataset/Sales.csv">Sales.csv</a>
+- < a href="https://github.com/nazmul23423/SQL-Python-PowerBI-Ecommerce-Analysis/blob/master/dataset/Stores.csv">Stores.csv</a>
+
 
 ## 🔧 Tech Stack
 
