@@ -35,12 +35,12 @@ e-commerce-analysis/
 
 ## 🔧 Tech Stack
 
-| Tool         | Purpose                          |
-|--------------|----------------------------------|
-| Python (pandas, SQLAlchemy) | Data loading & cleaning |
-| PostgreSQL   | Relational database & SQL queries |
-| Jupyter Notebook | EDA & analysis workflow     |
-| Power BI     | Interactive visualizations        |
+- **Tool**         — **Purpose**                          
+
+- **Python (pandas, SQLAlchemy)**   — Data loading & cleaning 
+- **PostgreSQL** — Relational database & SQL queries 
+- **Jupyter Notebook**  — EDA & analysis workflow     
+- **Power BI** — Interactive visualizations        
 
 ---
 
@@ -92,23 +92,23 @@ jupyter notebook E_commerce_project.ipynb
 
 ## 🔍 SQL Analysis — Business Questions Answered
 
-| # | Question |
-|---|----------|
-| Q1  | Total Orders and Revenue per Country |
-| Q2  | Product Category-wise Total Units Sold |
-| Q3  | Top 10 Best-Selling Products |
-| Q4  | Count of NULL Delivery Dates per Store |
-| Q5  | Brand-wise Revenue and Profit Margin |
-| Q6  | Monthly Sales Trend |
-| Q7  | Store Revenue per Square Meter |
-| Q8  | Sales by Age Group and Gender |
-| Q9  | Top 3 Products per Category by Profit |
-| Q10 | Total Revenue by Country and Product |
-| Q11 | Customers Who Shopped from Multiple Countries' Stores |
-| Q12 | Monthly Running Total & Month-over-Month Growth % |
-| Q13 | RFM Customer Segmentation (Recency, Frequency, Monetary) |
-| Q14 | Year-over-Year Quarterly Revenue Pivot |
-| Q15 | Top 5 Revenue Generating Brands |
+## Question 
+
+- **Q1** — Total Orders and Revenue per Country 
+- **Q2** — Product Category-wise Total Units Sold 
+- **Q3** — Top 10 Best-Selling Products 
+- **Q4** — Count of NULL Delivery Dates per Store 
+- **Q5** — Brand-wise Revenue and Profit Margin 
+- **Q6** — Monthly Sales Trend 
+- **Q7** — Store Revenue per Square Meter 
+- **Q8** — Sales by Age Group and Gender 
+- **Q9** — Top 3 Products per Category by Profit 
+- **Q10** — Total Revenue by Country and Product 
+- **Q11** — Customers Who Shopped from Multiple Countries' Stores 
+- **Q12** — Monthly Running Total & Month-over-Month Growth % 
+- **Q13** — RFM Customer Segmentation (Recency, Frequency, Monetary) 
+- **Q14** — Year-over-Year Quarterly Revenue Pivot 
+- **Q15** — Top 5 Revenue Generating Brands 
 
 ---
 
