@@ -32,13 +32,6 @@ e-commerce-analysis/
 | `exchange_rates`| Currency exchange rate data                      |
 
 ---
-## Dataset Used
-- < a href="https://github.com/nazmul23423/SQL-Python-PowerBI-Ecommerce-Analysis/blob/master/dataset/Customers.csv"> Customers.csv </a>
-- < a href="https://github.com/nazmul23423/SQL-Python-PowerBI-Ecommerce-Analysis/blob/master/dataset/Exchange_Rates.csv">Exchange_Rates.csv</a>
-- < a href="https://github.com/nazmul23423/SQL-Python-PowerBI-Ecommerce-Analysis/blob/master/dataset/Products.csv">Products.csv</a>
-- < a href="https://github.com/nazmul23423/SQL-Python-PowerBI-Ecommerce-Analysis/blob/master/dataset/Sales.csv">Sales.csv</a>
-- < a href="https://github.com/nazmul23423/SQL-Python-PowerBI-Ecommerce-Analysis/blob/master/dataset/Stores.csv">Stores.csv</a>
-
 
 ## 🔧 Tech Stack
 
@@ -134,8 +127,6 @@ The `.pbix` file includes interactive visuals covering:
 > Open the `.pbix` file using **Power BI Desktop** (free download from Microsoft).
 
 ---
-## Complete Powerbi Dashboard File
-- < a href="https://github.com/nazmul23423/SQL-Python-PowerBI-Ecommerce-Analysis/blob/master/E-commerce_data_analysis.pbix">Powerbi Dashboard file</a>
 
 ## 💡 Key Insights
 
