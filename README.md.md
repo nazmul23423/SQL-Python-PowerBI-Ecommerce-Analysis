@@ -1,10 +1,10 @@
-# 🛒 E-Commerce Data Analysis Project
+#  E-Commerce Data Analysis Project
 
 A complete end-to-end data analytics project using **Python**, **PostgreSQL**, and **Power BI** — covering data ingestion, cleaning, SQL-based analysis, and interactive dashboards.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 e-commerce-analysis/
@@ -21,7 +21,7 @@ e-commerce-analysis/
 
 ---
 
-## 📊 Dataset Overview
+##  Dataset Overview
 
 | Table           | Description                                      |
 |-----------------|--------------------------------------------------|
@@ -33,7 +33,7 @@ e-commerce-analysis/
 
 ---
 
-## 🔧 Tech Stack
+##  Tech Stack
 
 | Tool         | Purpose                          |
 |--------------|----------------------------------|
@@ -44,7 +44,7 @@ e-commerce-analysis/
 
 ---
 
-## ⚙️ Setup & Installation
+##  Setup & Installation
 
 ### 1. Clone the Repository
 ```bash
@@ -73,7 +73,7 @@ jupyter notebook E_commerce_project.ipynb
 
 ---
 
-## 🧹 Data Pipeline
+##  Data Pipeline
 
 ### Step 1 — Load CSVs to PostgreSQL
 - Reads 5 CSV files and auto-detects column data types
@@ -90,7 +90,7 @@ jupyter notebook E_commerce_project.ipynb
 
 ---
 
-## 🔍 SQL Analysis — Business Questions Answered
+## SQL Analysis — Business Questions Answered
 
 | # | Question |
 |---|----------|
@@ -125,7 +125,7 @@ The `.pbix` file includes interactive visuals covering:
 
 ---
 
-## 💡 Key Insights
+## Key Insights
 
 - **Geographic Revenue** — Identifies which countries generate the highest sales volume and revenue
 - **Brand Profitability** — Compares revenue vs. profit margin across brands
@@ -135,7 +135,7 @@ The `.pbix` file includes interactive visuals covering:
 
 ---
 
-## 🗃️ Database Schema (ERD Overview)
+##  Database Schema (ERD Overview)
 
 ```
 customers ──< sales >── products
@@ -149,14 +149,11 @@ customers ──< sales >── products
 
 ---
 
-## 📝 Author
+##  Author
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
+- GitHub: [@nazmul23423](https://github.com/nazmul23423)
+- LinkedIn: [md-nazmul-islam-8b5770388]https://linkedin.com/in/md-nazmul-islam-8b5770388)
 
----
 
-## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
