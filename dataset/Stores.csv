@@ -1,0 +1,68 @@
+StoreKey,Country,State,Square Meters,Open Date
+1,Australia,Australian Capital Territory,595,2008-01-01
+2,Australia,Northern Territory,665,2008-12-01
+3,Australia,South Australia,2000,2012-07-01
+4,Australia,Tasmania,2000,2010-01-01
+5,Australia,Victoria,2000,2015-09-12
+6,Australia,Western Australia,2000,2010-01-01
+7,Canada,New Brunswick,1105,2007-07-05
+8,Canada,Newfoundland and Labrador,2105,2014-02-07
+9,Canada,Northwest Territories,1500,2005-04-03
+10,Canada,Nunavut,1210,2015-04-04
+11,Canada,Yukon,1210,2009-03-06
+12,France,Basse-Normandie,350,2012-06-06
+13,France,Corse,245,2013-07-06
+14,France,Franche-Comté,350,2009-12-15
+15,France,La Réunion,400,2015-01-01
+16,France,Limousin,385,2010-03-06
+17,France,Martinique,350,2007-08-07
+18,France,Mayotte,310,2012-08-08
+19,Germany,Berlin,1295,2015-04-04
+20,Germany,Brandenburg,1715,2012-12-15
+21,Germany,Freie Hansestadt Bremen,560,2018-03-06
+22,Germany,Freistaat Thüringen,2000,2008-06-03
+23,Germany,Hamburg,1365,2010-01-01
+24,Germany,Hessen,1855,2012-12-15
+25,Germany,Mecklenburg-Vorpommern,1610,2010-01-01
+26,Germany,Saarland,350,2019-05-03
+27,Germany,Sachsen-Anhalt,2000,2008-08-08
+28,Italy,Caltanissetta,1200,2012-12-15
+29,Italy,Enna,1000,2008-01-01
+30,Italy,Pesaro,2100,2008-12-01
+31,Netherlands,Drenthe,1085,2012-07-01
+32,Netherlands,Flevoland,910,2010-01-01
+33,Netherlands,Friesland,1540,2015-09-12
+34,Netherlands,Groningen,1365,2010-01-01
+35,Netherlands,Zeeland,1225,2007-07-05
+36,United Kingdom,Armagh,1300,2014-02-07
+37,United Kingdom,Ayrshire,2100,2005-04-03
+38,United Kingdom,Belfast,1800,2015-04-04
+39,United Kingdom,Blaenau Gwent,2100,2009-03-06
+40,United Kingdom,Dungannon and South Tyrone,1300,2012-06-06
+41,United Kingdom,Fermanagh,2100,2013-07-06
+42,United Kingdom,North Down,1900,2009-12-15
+43,United States,Alaska,1190,2015-01-01
+44,United States,Arkansas,2000,2010-03-06
+45,United States,Connecticut,2000,2007-08-07
+46,United States,Delaware,1015,2012-08-08
+47,United States,Hawaii,1120,2015-04-04
+48,United States,Idaho,1540,2012-12-15
+49,United States,Iowa,2000,2018-03-06
+50,United States,Kansas,2000,2008-06-03
+51,United States,Maine,1295,2010-01-01
+52,United States,Mississippi,2000,2009-03-06
+53,United States,Montana,1260,2012-06-06
+54,United States,Nebraska,2000,2013-07-06
+55,United States,Nevada,2000,2009-12-15
+56,United States,New Hampshire,1260,2015-01-01
+57,United States,New Mexico,1645,2010-03-06
+58,United States,North Dakota,1330,2007-08-07
+59,United States,Oregon,2000,2012-08-08
+60,United States,Rhode Island,1260,2005-04-04
+61,United States,South Carolina,2000,2012-12-15
+62,United States,South Dakota,1120,2018-03-06
+63,United States,Utah,2000,2008-06-03
+64,United States,Washington DC,1330,2010-01-01
+65,United States,West Virginia,1785,2012-01-01
+66,United States,Wyoming,840,2014-01-01
+0,Online,Online,,2010-01-01
