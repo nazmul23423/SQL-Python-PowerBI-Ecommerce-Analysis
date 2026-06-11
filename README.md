@@ -32,6 +32,8 @@ e-commerce-analysis/
 | `exchange_rates`| Currency exchange rate data                      |
 
 ---
+## Dataset Used
+- < a href="https://github.com/nazmul23423/SQL-Python-PowerBI-Ecommerce-Analysis/tree/master/dataset">Data Folder</a>
 
 ## 🔧 Tech Stack
 
@@ -111,6 +113,9 @@ jupyter notebook E_commerce_project.ipynb
 - **Q15** — Top 5 Revenue Generating Brands 
 
 ---
+## Jupyter Notebook
+- <a href="https://github.com/nazmul23423/SQL-Python-PowerBI-Ecommerce-Analysis/blob/master/E_commerce_project.ipynb">Notebook</a>
+
 
 ## 📈 Power BI Dashboard
 
@@ -124,6 +129,8 @@ The `.pbix` file includes interactive visuals covering:
 > Open the `.pbix` file using **Power BI Desktop** (free download from Microsoft).
 
 ---
+## Complete Powerbi Dashboard File
+- < a href="https://github.com/nazmul23423/SQL-Python-PowerBI-Ecommerce-Analysis/blob/master/E-commerce_data_analysis.pbix">Powerbi Dashboard file</a>
 
 ## 💡 Key Insights
 
@@ -134,6 +141,8 @@ The `.pbix` file includes interactive visuals covering:
 - **Delivery Issues** — Stores with high NULL delivery dates flagged for operational review
 
 ---
+## Dashboard
+- <a href="https://github.com/nazmul23423/SQL-Python-PowerBI-Ecommerce-Analysis/blob/master/Powerbi_dashboard_image.png">Dashboard image</a>
 
 ## 🗃️ Database Schema (ERD Overview)
 
