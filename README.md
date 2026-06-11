@@ -33,7 +33,7 @@ e-commerce-analysis/
 
 ---
 ## Dataset Used
-- < a href="https://github.com/nazmul23423/SQL-Python-PowerBI-Ecommerce-Analysis/tree/master/dataset">Data Folder</a>
+- < a href="https://github.com/nazmul23423/SQL-Python-PowerBI-Ecommerce-Analysis/tree/master/dataset"> Data Folder </a>
 
 ## 🔧 Tech Stack
 
