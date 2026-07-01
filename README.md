@@ -142,26 +142,92 @@ The `.pbix` file includes interactive visuals covering:
 
 ## 💡 Key Insights
 
-- **Geographic Revenue** — Certain countries/stores contribute a disproportionately large share of total revenue, while others lag behind *(replace with actual top country/% from Q1 output)*
-- **Brand Profitability** — Some brands generate high revenue but relatively low profit margin, indicating pricing or cost inefficiencies *(replace with actual brand names from Q5 output)*
-- **Customer Segmentation** — RFM analysis identifies a small group of high-value ("Champion") customers alongside a larger "At Risk" segment showing declining purchase frequency
-- **Seasonal Trends** — Monthly/quarterly analysis reveals clear peak and low sales periods, useful for inventory planning
-- **Delivery Issues** — A subset of stores show a high rate of missing delivery dates, pointing to potential data logging or fulfillment problems
+### 📈 1. Strong Overall Business Performance
+- The business generated approximately **$11.07M** in total sales and **$6.51M** in total profit from nearly **11.9K orders**, selling around **37K products**.
+- The strong profit level indicates healthy profitability and effective pricing strategies.
 
-> 💡 *Tip: Replace the italicized placeholders above with the actual numbers/names from your query outputs — recruiters respond much better to specific figures (e.g. "France generates 32% of total revenue") than general statements.*
+---
+
+### 💻 2. Product Category Performance
+- **Computers** is the most profitable category, contributing approximately **$2.12M** in profit.
+- **Home Appliances** ranks second with around **$1.48M** in profit.
+- Categories such as **Games & Toys**, **Audio**, and **Music, Movies & Audio Books** generate comparatively lower profits, highlighting opportunities for product optimization and targeted marketing.
+
+---
+
+### 📅 3. Monthly Order Trend
+- Monthly order volume remains relatively stable throughout the year.
+- **February** recorded the highest order volume with approximately **1.6K orders**.
+- Order volume declined noticeably during **March** and **April**, suggesting possible seasonal demand fluctuations.
+
+---
+
+### 🌍 4. Geographic Sales Distribution
+- The **United States** is the strongest market, contributing approximately **18K units sold**, significantly outperforming all other countries.
+- The **United Kingdom** and **Germany** are the next highest-performing markets.
+- **France** and **Italy** record comparatively lower sales volumes, indicating potential growth opportunities.
+
+---
+
+### 👥 5. Customer Gender Analysis
+- Sales are almost evenly distributed between male and female customers.
+- **Female customers account for approximately 51.86% of total sales**, while **male customers contribute 48.14%**, reflecting balanced customer engagement.
+
+---
+
+### 🏷️ 6. Brand Performance
+- **Adventure Works** is the top-performing brand, generating approximately **$2.4M** in sales.
+- Sales decline gradually across the remaining brands, with **Tailspin Toys** recording the lowest sales.
+- Revenue is concentrated among a few leading brands, suggesting potential for expanding the performance of lower-selling brands.
+
+---
+
+### 🎨 7. Product Color Preference
+- **Silver** products generate the highest revenue (approximately **$21.2K**).
+- **White** products rank second in sales performance.
+- **Blue** products record the lowest revenue, indicating comparatively weaker customer demand.
 
 ---
 
 ## ✅ Recommendations
 
-Based on the analysis, the following actions are recommended:
+### 🚀 1. Focus on High-Profit Categories
+Increase inventory investment and marketing efforts for **Computers** and **Home Appliances**, as these categories generate the highest profit and offer the greatest return on investment.
 
-1. **Prioritize top-performing markets** — Allocate more marketing budget and inventory to the highest-revenue countries/stores identified in Q1 and Q7, while investigating why underperforming stores lag behind.
-2. **Review brand pricing/cost strategy** — For brands with high revenue but low profit margin (Q5), renegotiate supplier costs or adjust pricing to protect margins.
-3. **Launch retention campaigns for at-risk customers** — Use the RFM segmentation (Q13) to target "At Risk" and "Need Attention" customers with re-engagement offers before they churn, while rewarding "Champions" with loyalty perks.
-4. **Plan inventory around seasonal peaks** — Use the monthly/quarterly trend data (Q6, Q12, Q14) to pre-stock high-demand periods and avoid overstocking during slow months.
-5. **Fix delivery date logging** — Work with operations teams at stores with high NULL delivery-date counts (Q4) to identify whether this is a data entry gap or an actual fulfillment delay, since it directly affects customer experience tracking.
-6. **Double down on top products/categories** — Expand catalog depth or run promotions on the top 10 best-selling products and top profit-driving categories (Q3, Q9) to maximize return on proven demand.
+---
+
+### 📉 2. Improve Underperforming Categories
+Review pricing strategies, product assortment, and promotional campaigns for low-performing categories such as **Games & Toys**, **Audio**, and **Music, Movies & Audio Books** to improve profitability.
+
+---
+
+### 🌍 3. Expand High-Performing Markets
+Prioritize marketing campaigns, inventory allocation, and customer retention initiatives in the **United States**, **United Kingdom**, and **Germany**, where sales performance is strongest.
+
+---
+
+### 📍 4. Increase Sales in Low-Performing Countries
+Develop localized marketing strategies, promotional offers, and product selections for markets such as **France** and **Italy** to improve customer engagement and sales growth.
+
+---
+
+### 📅 5. Prepare for Seasonal Demand
+Since order volume declines during **March** and **April**, introduce seasonal promotions, targeted advertising, and inventory planning to maintain consistent sales throughout the year.
+
+---
+
+### 🏷️ 6. Strengthen Brand Performance
+Continue investing in top-performing brands such as **Adventure Works**, while evaluating pricing, product positioning, and promotional strategies for lower-performing brands like **Tailspin Toys**.
+
+---
+
+### 🎨 7. Optimize Product Inventory
+Maintain higher inventory levels for popular product colors such as **Silver** and **White**, while reviewing demand forecasting for lower-selling colors like **Blue** to reduce excess inventory.
+
+---
+
+### 👥 8. Enhance Customer Engagement
+Although sales are balanced across genders, implement personalized marketing campaigns and loyalty programs based on customer purchasing behavior to improve retention and lifetime value.
 
 ---
 
